@@ -20,14 +20,14 @@
   <img align="left" alt="Jismi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left">
- <h2><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" align="center"
+
   
  
 <p align="left">
 </p>
  
 
-<div align="left">
+<div align="left"> <h2><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" align="center"
        
                 width="40" /> Languages and Tools</h2>
         <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>   
