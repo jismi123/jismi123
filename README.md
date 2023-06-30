@@ -20,7 +20,7 @@
   <img align="left" alt="Jismi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left">
-
+ <h2><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" align="center"
   
  
 <p align="left">
