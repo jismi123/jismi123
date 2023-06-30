@@ -27,9 +27,6 @@
 </p>
  
 
-<div align="left"> <h2><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" align="center"
-       
-                width="40" /> Languages and Tools</h2>
         <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>   
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
