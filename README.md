@@ -1,4 +1,4 @@
-![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg)
+![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg))
 <h1 align="center">Hi 👋, I'm Jismi Joseph</h1>
 <!-- HaedLine !-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
@@ -6,27 +6,36 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💬 Ask me about **DART,JAVA,FLUTTER**
-
+- > Be Creative to Think Unique, to Be Unique - **JISMI** 💕
 
 - 📫 How to reach me **jismijoseph188@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <!-- Social Links !-->
  _Join the Ecosystem 💫_
-<a href="(https://www.linkedin.com/in/jismi-joseph-69517a20b)">
+<a href="https://www.linkedin.com/in/jismi-joseph-69517a20b">
   <img align="left" alt="Jismi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="(https://github.com/jismi123)">
+<a href="https://github.com/jismi123">
   <img align="left" alt="Jismi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left">
-
+### About me 🚀
+ <p align="left">
+- 🌱 Works on **Flutter** by passion and **Data Engineering** by field
+  <p align="left">
+- 👯 Love to help people and grow as a community
+   <p align="left">
+- 👣 I like crafting & designing
   
  
 <p align="left">
 </p>
  
 
+<div align="left">
+        <h2><img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" align="center"
+                width="40" /> Languages and Tools</h2>
         <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>   
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -68,12 +77,7 @@
   
   <h2 align="left"> 💻 Coding Profiles:</h2>
 
-<br/>
-<p align="center">
- 
 
-</p>
-<br/>
     <h2 align="left"> 💻 My workspace:</h2><br/>
     <p align='center'>
   <br/>
@@ -103,7 +107,7 @@
     <br />
     <div>
             <p align="center">
-                <img height="160" alt="Nibin's Github Stats"
+                <img height="160" alt="Jismi's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=jismi123&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Jismi's Github Stats" height="160"
                     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jismi123&theme=dark&layout=compact&langs_count=8&hide_border=true)" />
