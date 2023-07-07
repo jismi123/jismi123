@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/cute-girl-working-laptop-with-coffee-cup-illustration_138676-2398.jpg))
+![MasterHead](https://img.freepik.com/free-vector/cute-girl-working-laptop-with-coffee-cup-illustration_138676-2398.jpg)
 <h1 align="center">Hi 👋, I'm Jismi Joseph</h1>
 <!-- HeadLine !-->
 
