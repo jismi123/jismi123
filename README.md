@@ -17,10 +17,8 @@
 </a>
 <p align="left">
 ### About me 🚀
-   <p align="left">
-- 👯 Love to help people 
-   <p align="left">
-- 👣 I like crafting & designing
+  <p align="left">
+- 👣 I like to do craft works & designing
   
  
 <p align="left">
