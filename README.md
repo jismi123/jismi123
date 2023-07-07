@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/008/419/996/original/cute-girl-working-on-computer-cartoon-icon-illustration-people-technology-icon-concept-isolated-premium-vector.jpg))
+![MasterHead](https://img.freepik.com/free-vector/cute-girl-working-laptop-with-coffee-cup-illustration_138676-2398.jpg))
 <h1 align="center">Hi 👋, I'm Jismi Joseph</h1>
 <!-- HeadLine !-->
 
